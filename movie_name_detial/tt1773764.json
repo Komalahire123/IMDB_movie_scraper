@@ -1,0 +1,29 @@
+{
+ "bio": "The film explores questions of identity, justice, beauty, meaning and death through an experimental photographer, an ailing monk and a young stockbroker.", 
+ "name": "ShipofTheseus", 
+ "language": [
+  "English", 
+  "Arabic", 
+  "Swedish", 
+  "Hindi"
+ ], 
+ "country": [
+  "India", 
+  "Netherlands"
+ ], 
+ "director": [
+  "Anand Gandhi"
+ ], 
+ "poster": "https://www.imdb.com%26quot%3B//title/tt1773764/mediaviewer/rm138926080", 
+ "gerne": [
+  "Drama"
+ ], 
+ "runtime": "140 min", 
+ "caste": {
+  "url": "https://www.imdb.com/title/tt8959820/", 
+  "rATE": 7.2, 
+  "POSTION": 250, 
+  "name": "Petta", 
+  "year": 2019
+ }
+}
