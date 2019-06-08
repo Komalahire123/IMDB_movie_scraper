@@ -15,11 +15,66 @@
   "Drama"
  ], 
  "runtime": "130 min", 
- "caste": {
-  "url": "https://www.imdb.com/title/tt8959820/", 
-  "rATE": 7.2, 
-  "POSTION": 250, 
-  "name": "Petta", 
-  "year": 2019
- }
+ "caste": [
+  {
+   "imbd id": "nm9195417", 
+   "imbd name": "Aditi Balan"
+  }, 
+  {
+   "imbd id": "nm9557586", 
+   "imbd name": "Padmashri Mohammad Ali"
+  }, 
+  {
+   "imbd id": "nm9557587", 
+   "imbd name": "Pradeep Anthony"
+  }, 
+  {
+   "imbd id": "nm9557596", 
+   "imbd name": "Arnold"
+  }, 
+  {
+   "imbd id": "nm3243322", 
+   "imbd name": "K. Babu"
+  }, 
+  {
+   "imbd id": "nm6130614", 
+   "imbd name": "Bala"
+  }, 
+  {
+   "imbd id": "nm9557600", 
+   "imbd name": "Bharath"
+  }, 
+  {
+   "imbd id": "nm2007993", 
+   "imbd name": "Kavitha Bharathy"
+  }, 
+  {
+   "imbd id": "nm9557588", 
+   "imbd name": "Madan Chakravarthy"
+  }, 
+  {
+   "imbd id": "nm9557589", 
+   "imbd name": "Karthikeyan Chinnaswamy"
+  }, 
+  {
+   "imbd id": "nm2163980", 
+   "imbd name": "Dakshana"
+  }, 
+  {
+   "imbd id": "nm0803182", 
+   "imbd name": "Lakshmi Gopalaswamy"
+  }, 
+  {
+   "imbd id": "nm9557595", 
+   "imbd name": "Hema"
+  }, 
+  {
+   "imbd id": "nm9557601", 
+   "imbd name": "Hemalatha"
+  }, 
+  {
+   "imbd id": "nm9557603", 
+   "imbd name": "Kamala"
+  }
+ ]
 }

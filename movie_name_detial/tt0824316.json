@@ -16,11 +16,66 @@
   "Drama"
  ], 
  "runtime": "147 min", 
- "caste": {
-  "url": "https://www.imdb.com/title/tt8959820/", 
-  "rATE": 7.2, 
-  "POSTION": 250, 
-  "name": "Petta", 
-  "year": 2019
- }
+ "caste": [
+  {
+   "imbd id": "nm0707425", 
+   "imbd name": "Rajinikanth"
+  }, 
+  {
+   "imbd id": "nm4043111", 
+   "imbd name": "Vijay Sethupathi"
+  }, 
+  {
+   "imbd id": "nm1596350", 
+   "imbd name": "Nawazuddin Siddiqui"
+  }, 
+  {
+   "imbd id": "nm4241449", 
+   "imbd name": "M. Sasikumar"
+  }, 
+  {
+   "imbd id": "nm0801264", 
+   "imbd name": "Simran"
+  }, 
+  {
+   "imbd id": "nm1375534", 
+   "imbd name": "Trisha Krishnan"
+  }, 
+  {
+   "imbd id": "nm8306579", 
+   "imbd name": "Megha Akash"
+  }, 
+  {
+   "imbd id": "nm0536820", 
+   "imbd name": "J. Mahendran"
+  }, 
+  {
+   "imbd id": "nm5654277", 
+   "imbd name": "Bobby Simha"
+  }, 
+  {
+   "imbd id": "nm5626435", 
+   "imbd name": "Guru Somasundaram"
+  }, 
+  {
+   "imbd id": "nm7342820", 
+   "imbd name": "Sananth Reddy"
+  }, 
+  {
+   "imbd id": "nm6017002", 
+   "imbd name": "Malavika Mohanan"
+  }, 
+  {
+   "imbd id": "nm1559594", 
+   "imbd name": "Y.G. Mahendran"
+  }, 
+  {
+   "imbd id": "nm6106368", 
+   "imbd name": "Munishkanth"
+  }, 
+  {
+   "imbd id": "nm4861046", 
+   "imbd name": "Aadukalam Naren"
+  }
+ ]
 }

@@ -17,11 +17,66 @@
   "Drama"
  ], 
  "runtime": "143 min", 
- "caste": {
-  "url": "https://www.imdb.com/title/tt8959820/", 
-  "rATE": 7.2, 
-  "POSTION": 250, 
-  "name": "Petta", 
-  "year": 2019
- }
+ "caste": [
+  {
+   "imbd id": "nm1946407", 
+   "imbd name": "Kay Kay Menon"
+  }, 
+  {
+   "imbd id": "nm0539497", 
+   "imbd name": "Pavan Malhotra"
+  }, 
+  {
+   "imbd id": "nm0820282", 
+   "imbd name": "Aditya Srivastava"
+  }, 
+  {
+   "imbd id": "nm0080349", 
+   "imbd name": "Dibyendu Bhattacharya"
+  }, 
+  {
+   "imbd id": "nm0434263", 
+   "imbd name": "Kishore Kadam"
+  }, 
+  {
+   "imbd id": "nm0710549", 
+   "imbd name": "Gajraj Rao"
+  }, 
+  {
+   "imbd id": "nm0403984", 
+   "imbd name": "Zakir Hussain"
+  }, 
+  {
+   "imbd id": "nm1326262", 
+   "imbd name": "Somesh Agarwal"
+  }, 
+  {
+   "imbd id": "nm6271541", 
+   "imbd name": "Akhilesh Tripathi"
+  }, 
+  {
+   "imbd id": "nm1665004", 
+   "imbd name": "Imtiaz Ali"
+  }, 
+  {
+   "imbd id": "nm2366974", 
+   "imbd name": "Raj Arjun"
+  }, 
+  {
+   "imbd id": "nm1616361", 
+   "imbd name": "Ragesh Asthana"
+  }, 
+  {
+   "imbd id": "nm1309355", 
+   "imbd name": "Sushovan Banerjee"
+  }, 
+  {
+   "imbd id": "nm1794460", 
+   "imbd name": "Asif Basra"
+  }, 
+  {
+   "imbd id": "nm1023986", 
+   "imbd name": "Aditya Bhattacharya"
+  }
+ ]
 }
